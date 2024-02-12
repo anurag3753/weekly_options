@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Wekly Options ignore files
+*.json
+
 # C extensions
 *.so
 
